@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Ram cleaner
+Exec=/usr/local/bin/ram_cleaner
+Icon=py.png
+Terminal=false
+Type=Application
