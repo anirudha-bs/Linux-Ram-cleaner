@@ -14,4 +14,4 @@ sudo apt-get install xtrem
 
 sudo apt-get install htop
 
-And then download the package(IF only executable is required,just download ram_cleaner.zip and extract) and run install.sh script to start using the app
+Download the package and then extract ram_cleaner.zip and run install.sh script to start using the app
