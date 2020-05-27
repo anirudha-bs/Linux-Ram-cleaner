@@ -1,5 +1,9 @@
 # Linux-Ram-cleaner
 
+![alt text](https://github.com/anirudha-bs/Linux-Ram-cleaner/blob/master/app.png?raw=true)
+
+
+
 Every Linux System has three options to clear cache without interrupting any processes or services.
 This app clear cache (pagecache, dentries and inodes) by writing 1,2,3 to drop_cache in proc/sys/vm/ directory
 This will slow down the system for a moment until new pages are loaded into the Ram.
